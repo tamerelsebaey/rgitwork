@@ -1,6 +1,10 @@
 first line
 second line 
 3rd line 
+<<<<<<< HEAD
 4th 
 last line 
 End 
+=======
+4th 
+>>>>>>> parent of 12147aa... last line commit
